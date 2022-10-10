@@ -1,10 +1,14 @@
 import React from 'react';
+import { Container } from 'react-bootstrap';
 
 const Card = () => {
+    
     return (
-        <div>
-            
-        </div>
+        <Container>
+            <ul>
+                
+            </ul>
+        </Container>
     );
 };
 
